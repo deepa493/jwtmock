@@ -1,0 +1,19 @@
+{
+  "name": "jwtmock",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deepa493/jwtmock.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/deepa493/jwtmock/issues"
+  },
+  "homepage": "https://github.com/deepa493/jwtmock#readme"
+}
